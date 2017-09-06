@@ -3,6 +3,10 @@ body {
     font-size: 11pt;
 }
 
+.hidden-print {
+    display: none;
+}
+
 #leksjonprintHeader {
     display: flex;
     align-items: center;
