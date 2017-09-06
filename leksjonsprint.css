@@ -8,12 +8,12 @@ body {
     align-items: center;
 }
 
-#leksjonprintHeader.cdLogo {
+#leksjonprintHeader .cdLogo {
     height: 100px;
     width: 200px;
 }
 
-#leksjonprintHeader.visningslogo {
+#leksjonprintHeader .visningslogo {
     height: 70px;
     width: 400px;
 }
