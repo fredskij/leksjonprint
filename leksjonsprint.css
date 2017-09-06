@@ -9,13 +9,11 @@ body {
 }
 
 #leksjonprintHeader .cdLogo {
-    height: 100px;
-    width: 200px;
+    margin-right: 35px;
 }
 
 #leksjonprintHeader .visningslogo {
-    height: 70px;
-    width: 400px;
+
 }
 
 #leksjonoppsummering .ditt-svar {
@@ -25,5 +23,5 @@ body {
 #leksjonoppsummering.summary-answer {
     background-color: #F3F5F4;
     padding: 20px;
-    max-width: 75%;
+    max-width: 100%;
 }
