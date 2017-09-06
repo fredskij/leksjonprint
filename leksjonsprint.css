@@ -20,7 +20,7 @@ body {
     display: none;
 }
 
-#leksjonoppsummering.summary-answer {
+#leksjonoppsummering .summary-answer {
     background-color: #F3F5F4;
     padding: 20px;
     max-width: 100%;
