@@ -11,12 +11,10 @@ body {
 .cdLogo {
     height: 100px;
     width: 200px;
-    float: left;
     background-color: #000000;
 }
 
 .visningslogo {
     height: 70px;
     width: 400px;
-    float: right;
 }
