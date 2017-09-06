@@ -18,3 +18,13 @@ body {
     height: 70px;
     width: 400px;
 }
+
+.ditt-svar {
+    display: none;
+}
+
+.summary-answer {
+    background-color: #F3F5F4;
+    padding: 20px;
+    max-width: 75%;
+}
